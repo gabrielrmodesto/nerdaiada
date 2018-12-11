@@ -1,0 +1,11 @@
+*{
+	margin: 0;
+}
+ul, li, ol{
+  display: inline-block;
+  text-decoration: none;
+}
+a{
+  color: inherit;
+  text-decoration: none;
+}
