@@ -1,8 +1,13 @@
-.secoes-pag{
-    padding: 5% 0;
+main section .primeiro-titulo{
+    padding-top: 70px;
+    padding-bottom: 3%;
 }
 h3{
     font-weight: bold;
+}
+/*index*/
+.secoes-pag{
+    padding: 5% 0;
 }
 #noticias-recentes p{
     margin-top: 5% !important;
@@ -16,11 +21,17 @@ h3{
 .texto-noticia{
     text-align: justify;
 }
+/*sobre*/
+#nossa-historia p, #criadores p{
+    padding: 3% 0;
+    text-align: justify;
+}
 footer{
-    background-color: #eee; 
+    background-color: #eee;
+    padding: 3%;
 }
 footer .form-group{
-    padding: 3% 0;
+    padding: 1% 0;
 }
 footer textarea{
     width: 100%;
