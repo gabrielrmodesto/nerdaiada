@@ -1,6 +1,6 @@
-# Nerdaiada Seu ecommerce nerd
+# Nerdaiada Seu mundo nerd
 
-Projeto de um site ecommerce desenvolvido no 2º semestre do curso Análise e Desenvolvimento de Sistemas da FATEC Cruzeiro
+Projeto de um site temático desenvolvido no 2º semestre do curso Análise e Desenvolvimento de Sistemas da FATEC Cruzeiro
 
 ---
 
