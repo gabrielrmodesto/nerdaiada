@@ -8,7 +8,7 @@ btn.addEventListener("click", function(){
 	});
 });
 
-const menuItens = document.querySelectorAll('.menu a');
+const menuItens = document.querySelectorAll('.menu #contatolink');
 
 menuItens.forEach(item => {
 	item.addEventListener('click', scrollToId);
